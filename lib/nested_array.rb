@@ -35,7 +35,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  sorted_matrix[1][1] = "Lemons"
-  sorted_matrix
+  matrix[1][1] = "new_value"
+  matrix
 end
 
