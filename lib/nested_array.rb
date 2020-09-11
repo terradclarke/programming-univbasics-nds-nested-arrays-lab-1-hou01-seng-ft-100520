@@ -39,4 +39,4 @@ def matrix_update(matrix, row, column, new_value)
   matrix_update
 end
 
-matrix[1][1] = new_value
+sorted_matrix[1][1] = "Lemons"
